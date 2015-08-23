@@ -1,5 +1,4 @@
-#Below are brief descriptions of the variables used in the data. At the end of the codebook is a detailed description
-#that is taken from the features_info.txt file of the original data.
+#Below are brief descriptions of the variables used in the tidydata.
 
 *  subject 
  Identifies the subject who performed the activity  
