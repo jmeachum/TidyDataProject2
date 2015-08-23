@@ -3,6 +3,8 @@ training group as individual tables, x_train.txt, y_train.txt and subject.txt.
 
 I also read in the features.txt file and used this as the label to various
 variables used in this dataset. I labeled the xTrain table using names() function.
+For a more detailed explaination of what the measurements are please see the
+codebook markdown file in this repo.
 
 I then used cbind to add yTrain as a column to xTrain and saved this to a new data
 table named trainDT. I renamed the new column to activity.
